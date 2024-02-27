@@ -1,0 +1,22 @@
+{
+  "name": "web-scraping",
+  "version": "1.0.0",
+  "description": "web scraping to get real estate data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adosh74/web-scraping.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Mohamed Shebl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adosh74/web-scraping/issues"
+  },
+  "homepage": "https://github.com/Adosh74/web-scraping#readme"
+}
