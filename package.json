@@ -1,10 +1,10 @@
 {
   "name": "web-scraping",
   "version": "1.0.0",
-  "description": "web scraping to get real estate data",
+  "description": "learn web scraping",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/Adosh74/web-scraping/issues"
   },
-  "homepage": "https://github.com/Adosh74/web-scraping#readme"
+  "homepage": "https://github.com/Adosh74/web-scraping#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
 }
